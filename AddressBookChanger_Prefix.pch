@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AddressBookChanger' target in the 'AddressBookChanger' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
